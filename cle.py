@@ -54,7 +54,7 @@ from urllib.parse import quote_plus
 # mydb=mysql.connector.connect(
 #     host='localhost',
 #     user='root',
-#     password='system',
+#     password='<your database password>',
 #     database='cust_shopping_behavior')
 
 # mycursor=mydb.cursor();
